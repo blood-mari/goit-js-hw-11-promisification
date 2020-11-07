@@ -15,3 +15,7 @@ body {
   transition: color 150ms var(--timing-function),
     background-color 150ms var(--timing-function);
 }
+
+.maintitle {
+  text-align: center;
+}
